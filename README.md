@@ -10,3 +10,5 @@ To add new files:
 Optionally:
 * create an issue (needs registration with github)
 * post in the wiki sub-forum at https://forum.freecadweb.org/viewforum.php?f=21
+
+testing from lkkplau0988
