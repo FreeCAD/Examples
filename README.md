@@ -1,4 +1,4 @@
-This repository contains FreeCAD files to serve as examples and to be referenced from the wiki at http://www.freecadweb.org/wiki
+This repository contains FreeCAD files to serve as examples and to be referenced from the [wiki].
 
 Contributions are always welcome.
 
@@ -9,4 +9,8 @@ To add new files:
 
 Optionally:
 * create an issue (needs registration with github)
-* post in the wiki sub-forum at https://forum.freecadweb.org/viewforum.php?f=21
+* post in the wiki [sub-forum]
+
+
+[sub-forum]: https://forum.freecad.org/viewforum.php?f=21
+[wiki]: https://wiki.freecad.org
